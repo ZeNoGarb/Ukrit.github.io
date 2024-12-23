@@ -12,4 +12,4 @@
 
 
 <p alige="left">
-<img src="picture/13.png" width="300">
+<img src="picture/13.jpg" width="300">
