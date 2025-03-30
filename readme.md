@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact: เฟรนลี่งับ
 
-[parity-bits](parity-bits.md)
+
 
 <p alige="left">
 <img src="picture/13.jpg" width="300">
